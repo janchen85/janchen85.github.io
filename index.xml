@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Mille pattes e.V.</title>
-    <link>/blog/</link>
-    <description>Recent content in Blog on Mille pattes e.V.</description>
+    <title>Willkommen bei MILLE PATTES E.V. on Mille pattes e.V.</title>
+    <link>/</link>
+    <description>Recent content in Willkommen bei MILLE PATTES E.V. on Mille pattes e.V.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 01 Oct 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -53,6 +53,17 @@ With Jekyll, something that looked like&lt;/p&gt;
       
       <guid>/blog/creating-a-new-theme/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Karriere</title>
+      <link>/karriere/_default/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/karriere/_default/</guid>
+      <description>Karriere is good
+Cool stuff
+Setup Thanks for reading!</description>
     </item>
     
   </channel>
