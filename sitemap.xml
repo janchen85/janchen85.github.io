@@ -23,17 +23,22 @@
   </url>
   
   <url>
+    <loc>/downloads/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/karriere/_default/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/karriere/</loc>
+    <loc>/verein/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/konzept/</loc>
+    <loc>/karriere/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -48,7 +53,7 @@
   </url>
   
   <url>
-    <loc>/verein/</loc>
+    <loc>/konzept/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   

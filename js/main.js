@@ -23,31 +23,6 @@
 			$sidebar = $('#sidebar'),
 			$main = $('#main');
 
-		// TODO: Fix this, or implement lazy load.
-		// Disable animations/transitions until the page has loaded.
-		//	$body.addClass('is-loading');
-
-		//	$window.on('load', function() {
-		//		window.setTimeout(function() {
-		//			$body.removeClass('is-loading');
-		//		}, 100);
-		//	});
-
-		// Fix: Placeholder polyfill.
-			$('form').placeholder();
-
-		// Prioritize "important" elements on medium.
-			skel.on('+medium -medium', function() {
-				$.prioritize(
-					'.important\\28 medium\\29',
-					skel.breakpoint('medium').active
-				);
-			});
-
-		// IE<=9: Reverse order of main and sidebar.
-			if (skel.vars.IEVersion <= 9)
-				$main.insertAfter($sidebar);
-
 		$menu.appendTo($body);
 		$shareMenu.appendTo($body);
 
@@ -61,18 +36,6 @@
 			side: 'right',
 			target: $body,
 			visibleClass: 'is-menu-visible'
-		});
-
-		$shareMenu.panel({
-			delay: 500,
-			hideOnClick: true,
-			hideOnEscape: true,
-			hideOnSwipe: true,
-			resetScroll: true,
-			resetForms: true,
-			side: 'right',
-			target: $body,
-			visibleClass: 'is-share-visible'
 		});
 
 		// Menu.
