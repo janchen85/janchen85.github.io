@@ -6,10 +6,59 @@
     <description>Recent content in Blog on Mille pattes e.V.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 01 Oct 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Kooperation Deutsch-Französisches Jugendwerk DFJW</title>
+      <link>/blog/ofaj/</link>
+      <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/ofaj/</guid>
+      <description>Das Deutsch-Französische Jugendwerk (DFJW) oder Office franco-allemand pour la Jeunesse (OFAJ) in Französisch, ist ein starker Partner von Mille Pattes e.V.
+Das DFJW wurde in 1963 ins Leben gerufen. Es ist eine internationale Organisation, die die deutsch-französische Zusammenarbeit fördert.
+Mille Pattes e.V. hat bereits an mehreren Programmen des DFJW teilgenommen:
+ In 2016 und 2017 hat der Verein an dem Deutsch-Französischen Freiwilligen Programm teilgenommen und im Rahmen dessen, eine französische Freiwillige empfangen, die das Team der Sprachbegleiter verstärkt hat, um das Interesse für die Frankofonie zu steigern.</description>
+    </item>
+    
+    <item>
+      <title>Juhu – der Turnbeutel ist da!</title>
+      <link>/blog/turnbeutel/</link>
+      <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/turnbeutel/</guid>
+      <description>Als wir bei einer Versammlung gemütlich zusammensaßen, kam irgendwann das Thema Schule auf und jemand erzählte wie schön das ist, dass die Kinder zum Schulbeginn ein T-Shirt mit dem Franz-Logo in der Schulfarbe bekommen.
+Tatsächlich haben wir auch selber alle Erinnerungen an unsere Schirmmütze zur Einschulung oder das GemeinschaftsPolo zum Abitur.
+Prima Idee!
+Wir wollten unseren kleinen Tausendfüßlern auch ein (Willkommen-)Geschenk machen, das sie vielleicht noch während der ersten Schuljahre an ihre Zeit in der Kita erinnern kann oder zumindest praktisch durch die Kindergartenzeit begleitet.</description>
+    </item>
+    
+    <item>
+      <title>Weiterbildung der Sprachbegleiter</title>
+      <link>/blog/biss/</link>
+      <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/biss/</guid>
+      <description>&lt;p&gt;Unsere leitende Sprachbegleiterin &lt;code&gt;Alexandra&lt;/code&gt; nimmt seit Jahren an Weiterbildungsmodulen des &lt;a href=&#34;http://www.biss-sprachbildung.de/&#34;&gt;&lt;code&gt;BISS&lt;/code&gt;&lt;/a&gt; teil und hat diese nun abgeschlossen.
+&lt;em&gt;„Bildung durch Sprache und Schrift“ (BiSS)&lt;/em&gt; ist eine gemeinsame Initiative des Bundesministeriums für Bildung und Forschung (BMBF),
+des Bundesministeriums für Familie, Senioren, Frauen und Jugend (BMFSFJ) sowie der Kultusministerkonferenz (KMK) und der Konferenz
+der Jugend- und Familienminister (JFMK) der Länder zur Verbesserung der Sprachförderung, Sprachdiagnostik und Leseförderung.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Das Mercator-Institut für Sprachförderung und Deutsch als Zweitsprache der Universität zu Köln&lt;/em&gt;,
+   &lt;em&gt;das Deutsche Institut für Internationale Pädagogische Forschung (DIPF)&lt;/em&gt; und
+   &lt;em&gt;die Humboldt-Universität zu Berlin&lt;/em&gt;
+   &lt;em&gt;in Kooperation mit dem Institut zur Qualitätsentwicklung im Bildungswesen (IQB)&lt;/em&gt;
+    übernehmen als Trägerkonsortium die wissenschaftliche Ausgestaltung und Gestkoordination des Programms.&lt;/p&gt;
+
+&lt;p&gt;Die Professionalisierung von Lehrkräften und pädagogischen Fachkräften in den Bereichen Sprachbildung,
+Sprachförderung und Sprachdiagnostik ist eines der zentralen Ziele von BiSS.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.biss-sprachbildung.de/&#34;&gt;http://www.biss-sprachbildung.de/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>go is for lovers</title>
@@ -26,33 +75,6 @@ With Jekyll, something that looked like&lt;/p&gt;
     ▾ images/
         logo.png
 &lt;/code&gt;&lt;/pre&gt;</description>
-    </item>
-    
-    <item>
-      <title>HUGO</title>
-      <link>/blog/hugoisforlovers/</link>
-      <pubDate>Tue, 30 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/hugoisforlovers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>go is for lovers</title>
-      <link>/blog/goisforlovers/</link>
-      <pubDate>Mon, 29 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/goisforlovers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Creating a New Theme</title>
-      <link>/blog/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/creating-a-new-theme/</guid>
-      <description></description>
     </item>
     
   </channel>
