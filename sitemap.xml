@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/blog/fetedelamusique/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/</loc>
-    <lastmod>2019-04-15T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -59,6 +64,36 @@
   </url>
   
   <url>
+    <loc>/downloads/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/verein/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/karriere/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/mitglied/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/team/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/konzept/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
@@ -69,36 +104,12 @@
   </url>
   
   <url>
-    <loc>/downloads/</loc>
-  </url>
-  
-  <url>
     <loc>/kontakt/</loc>
-  </url>
-  
-  <url>
-    <loc>/verein/</loc>
-  </url>
-  
-  <url>
-    <loc>/karriere/</loc>
-  </url>
-  
-  <url>
-    <loc>/mitglied/</loc>
   </url>
   
   <url>
     <loc>/tags/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/team/</loc>
-  </url>
-  
-  <url>
-    <loc>/konzept/</loc>
   </url>
   
 </urlset>
