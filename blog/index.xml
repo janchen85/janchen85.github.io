@@ -39,7 +39,7 @@ Was ist die Fête de la Musique? Jedes Jahr zum Sommeranfang am 21. Juni erkling
       <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>/blog/rejoinsnotreequipe/</guid>
-      <description> Rejoins notre équipe pour une nouvelle année scolaire nous offrons: - une ville sympa et proche de Berlin - une équipe internationale - une expérience unique  Clique ici pour plus d&amp;#39;informations ou clique ici pour voir l&amp;rsquo;offre d&amp;rsquo;emploi: Assistant(e) de langue (h/f) CDD (possibilité de CDI)  </description>
+      <description>Rejoins notre équipe pour une nouvelle année scolaire nous offrons: - une ville sympa et proche de Berlin - une équipe internationale - une expérience unique   Clique ici pour plus d&amp;#39;informations ou clique ici pour voir l&#39;offre d&#39;emploi: Assistant(e) de langue (h/f) CDD (possibilité de CDI)  </description>
     </item>
     
     <item>
@@ -113,7 +113,7 @@ Eine ordentliche Mitgliederversammelung hat, an sich, immer etwas trockenes, abe
       <description>Das Deutsch-Französische Jugendwerk (DFJW) oder Office franco-allemand pour la Jeunesse (OFAJ) in Französisch, ist ein starker Partner von Mille Pattes e.V.
 Das DFJW wurde in 1963 ins Leben gerufen. Es ist eine internationale Organisation, die die deutsch-französische Zusammenarbeit fördert.
 Mille Pattes e.V. hat bereits an mehreren Programmen des DFJW teilgenommen:
- In 2016 und 2017 hat der Verein an dem Deutsch-Französischen Freiwilligen Programm teilgenommen und im Rahmen dessen, eine französische Freiwillige empfangen, die das Team der Sprachbegleiter verstärkt hat, um das Interesse für die Frankofonie zu steigern.</description>
+  In 2016 und 2017 hat der Verein an dem Deutsch-Französischen Freiwilligen Programm teilgenommen und im Rahmen dessen, eine französische Freiwillige empfangen, die das Team der Sprachbegleiter verstärkt hat, um das Interesse für die Frankofonie zu steigern.</description>
     </item>
     
     <item>
@@ -138,16 +138,13 @@ Wir wollten unseren kleinen Tausendfüßlern auch ein (Willkommen-)Geschenk mach
 &lt;em&gt;„Bildung durch Sprache und Schrift“ (BiSS)&lt;/em&gt; ist eine gemeinsame Initiative des Bundesministeriums für Bildung und Forschung (BMBF),
 des Bundesministeriums für Familie, Senioren, Frauen und Jugend (BMFSFJ) sowie der Kultusministerkonferenz (KMK) und der Konferenz
 der Jugend- und Familienminister (JFMK) der Länder zur Verbesserung der Sprachförderung, Sprachdiagnostik und Leseförderung.&lt;/p&gt;
-
 &lt;p&gt;&lt;em&gt;Das Mercator-Institut für Sprachförderung und Deutsch als Zweitsprache der Universität zu Köln&lt;/em&gt;,
-   &lt;em&gt;das Deutsche Institut für Internationale Pädagogische Forschung (DIPF)&lt;/em&gt; und
-   &lt;em&gt;die Humboldt-Universität zu Berlin&lt;/em&gt;
-   &lt;em&gt;in Kooperation mit dem Institut zur Qualitätsentwicklung im Bildungswesen (IQB)&lt;/em&gt;
-    übernehmen als Trägerkonsortium die wissenschaftliche Ausgestaltung und Gestkoordination des Programms.&lt;/p&gt;
-
+&lt;em&gt;das Deutsche Institut für Internationale Pädagogische Forschung (DIPF)&lt;/em&gt; und
+&lt;em&gt;die Humboldt-Universität zu Berlin&lt;/em&gt;
+&lt;em&gt;in Kooperation mit dem Institut zur Qualitätsentwicklung im Bildungswesen (IQB)&lt;/em&gt;
+übernehmen als Trägerkonsortium die wissenschaftliche Ausgestaltung und Gestkoordination des Programms.&lt;/p&gt;
 &lt;p&gt;Die Professionalisierung von Lehrkräften und pädagogischen Fachkräften in den Bereichen Sprachbildung,
 Sprachförderung und Sprachdiagnostik ist eines der zentralen Ziele von BiSS.&lt;/p&gt;
-
 &lt;p&gt;&lt;a href=&#34;http://www.biss-sprachbildung.de/&#34;&gt;http://www.biss-sprachbildung.de/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
@@ -158,10 +155,8 @@ Sprachförderung und Sprachdiagnostik ist eines der zentralen Ziele von BiSS.&lt
       
       <guid>/blog/migrate-from-jekyll/</guid>
       <description>&lt;h2 id=&#34;move-static-content-to-static&#34;&gt;Move static content to &lt;code&gt;static&lt;/code&gt;&lt;/h2&gt;
-
 &lt;p&gt;Jekyll has a rule that any directory not starting with &lt;code&gt;_&lt;/code&gt; will be copied as-is to the &lt;code&gt;_site&lt;/code&gt; output. Hugo keeps all static content under &lt;code&gt;static&lt;/code&gt;. You should therefore move it all there.
 With Jekyll, something that looked like&lt;/p&gt;
-
 &lt;pre&gt;&lt;code&gt;▾ &amp;lt;root&amp;gt;/
     ▾ images/
         logo.png
