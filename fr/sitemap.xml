@@ -63,7 +63,7 @@
   </url>
   
   <url>
-    <loc>/fr/mitglied/</loc>
+    <loc>/fr/adhesion/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -73,7 +73,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/mitglied/"
+                href="/fr/adhesion/"
                 />
   </url>
   
@@ -93,7 +93,7 @@
   </url>
   
   <url>
-    <loc>/fr/karriere/</loc>
+    <loc>/fr/carriere/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -103,12 +103,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/karriere/"
+                href="/fr/carriere/"
                 />
   </url>
   
   <url>
-    <loc>/fr/team/</loc>
+    <loc>/fr/equipe/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -118,12 +118,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/team/"
+                href="/fr/equipe/"
                 />
   </url>
   
   <url>
-    <loc>/fr/verein/</loc>
+    <loc>/fr/association/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -133,12 +133,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/verein/"
+                href="/fr/association/"
                 />
   </url>
   
   <url>
-    <loc>/fr/konzept/</loc>
+    <loc>/fr/le-concept/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -148,7 +148,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/konzept/"
+                href="/fr/le-concept/"
                 />
   </url>
   
@@ -167,7 +167,7 @@
   </url>
   
   <url>
-    <loc>/fr/kontakt/</loc>
+    <loc>/fr/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -176,7 +176,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/kontakt/"
+                href="/fr/contact/"
                 />
   </url>
   
