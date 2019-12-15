@@ -6,10 +6,22 @@
     <description>Recent content in Blog on Mille pattes e.V.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Sun, 03 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/fr/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Amazon Smile - Supportez nous!</title>
+      <link>/fr/blog/amazonsmile/</link>
+      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/blog/amazonsmile/</guid>
+      <description>mille pattes e.V. est à présent sur AmazonSmile
+Chers parents,
+Grâce aux efforts de toute notre équipe, l&#39;association mille pattes e.V. est désormais sur AmazonSmile et vous pouvez ainsi, avec chacun de vos achats, nous supporter !
+Qu&#39;est-ce-que AmazonSmile ? Naviguez simplement sur smile.amazon.com à la place du site standard d&#39;Amazon et vous pourrez ainsi nous aider en sélectionnant notre association lorsque vous effectuez vos achats. AmazonSmile reverse 0.5% de votre panier à l&#39;association que vous aurez choisi (le tout sans coûts additionels pour vous).</description>
+    </item>
     
     <item>
       <title>Pour plus de bilinguisme!</title>

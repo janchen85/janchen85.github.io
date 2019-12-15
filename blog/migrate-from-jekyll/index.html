@@ -34,7 +34,7 @@
         <ul>
         
             <li>
-                <a href="/home">
+                <a href="/">
                     <i class="fa fa-home">&nbsp;</i>Home
                 </a>
             </li>
@@ -66,6 +66,12 @@
             <li>
                 <a href="/karriere">
                     <i class="fa fa-list">&nbsp;</i>Karriere
+                </a>
+            </li>
+        
+            <li>
+                <a href="/downloads">
+                    <i class="fa fa-cloud-download">&nbsp;</i>Download
                 </a>
             </li>
         
@@ -117,7 +123,7 @@
             <ul id="menupunkte">
                 
                 <li>
-                    <a href="/home">
+                    <a href="/">
                         <i class="fa fa-home">&nbsp;</i>Home
                     </a>
                 </li>
@@ -153,6 +159,12 @@
                 </li>
                 
                 <li>
+                    <a href="/downloads">
+                        <i class="fa fa-cloud-download">&nbsp;</i>Download
+                    </a>
+                </li>
+                
+                <li>
                     <a href="/kontakt">
                         <i class="fa fa-envelope-o">&nbsp;</i>Kontakt
                     </a>
@@ -165,6 +177,42 @@
                 </header>
                 
 
+                
+                        <article class="mini-post">
+                            <header>
+                                <h3><a href="/blog/amazonsmile/">Amazon Smile - Unterstützen Sie uns</a></h3>
+                                
+                                <time class="published" datetime=
+                                    '2019-12-15'>
+                                    December 15, 2019</time>
+                            </header>
+                            
+    
+
+    
+        
+        
+
+
+
+
+
+
+
+  
+
+
+        
+        
+        
+
+        <a href="/blog/amazonsmile/" class="image featured">
+            <img src="/img/blog/banner_amazonsmile.png" alt="">
+        </a>
+    
+
+
+                        </article>
                 
                         <article class="mini-post">
                             <header>
@@ -274,42 +322,6 @@
 
                         </article>
                 
-                        <article class="mini-post">
-                            <header>
-                                <h3><a href="/blog/chandeleur/">4. Februar - La Chandeleur</a></h3>
-                                
-                                <time class="published" datetime=
-                                    '2019-01-27'>
-                                    January 27, 2019</time>
-                            </header>
-                            
-    
-
-    
-        
-        
-
-
-
-
-
-
-
-  
-
-
-        
-        
-        
-
-        <a href="/blog/chandeleur/" class="image featured">
-            <img src="/img/blog/Elterncafe-min.jpg" alt="">
-        </a>
-    
-
-
-                        </article>
-                
 
             </div>
         </section>
@@ -377,7 +389,7 @@ With Jekyll, something that looked like</p>
 <p>Additionally, you'll want any files that should reside at the root (such as <code>CNAME</code>) to be moved to <code>static</code>.</p>
 <h2 id="create-your-hugo-configuration-file">Create your Hugo configuration file</h2>
 <p>Hugo can read your configuration as JSON, YAML or TOML. Hugo supports parameters custom configuration too. Refer to the <a href="/overview/configuration/">Hugo configuration documentation</a> for details.</p>
-<h2 id="set-your-configuration-publish-folder-to-site">Set your configuration publish folder to <code>_site</code></h2>
+<h2 id="set-your-configuration-publish-folder-to--site">Set your configuration publish folder to <code>_site</code></h2>
 <p>The default is for Jekyll to publish to <code>_site</code> and for Hugo to publish to <code>public</code>. If, like me, you have <a href="http://blog.blindgaenger.net/generate_github_pages_in_a_submodule.html"><code>_site</code> mapped to a git submodule on the <code>gh-pages</code> branch</a>, you'll want to do one of two alternatives:</p>
 <ol>
 <li>
@@ -543,6 +555,44 @@ Liquid::Template.register_tag('image', Jekyll::ImageTag)
           <article class="mini-post">
             <header>
               <h3>
+                <a href="/blog/amazonsmile/">Amazon Smile - Unterstützen Sie uns</a>
+              </h3>
+              
+              <time class="published" datetime='2019-12-15'>
+                December 15, 2019
+              </time>
+            </header>
+            
+    
+
+    
+        
+        
+
+
+
+
+
+
+
+  
+
+
+        
+        
+        
+
+        <a href="/blog/amazonsmile/" class="image featured">
+            <img src="/img/blog/banner_amazonsmile.png" alt="">
+        </a>
+    
+
+
+          </article>
+        
+          <article class="mini-post">
+            <header>
+              <h3>
                 <a href="/blog/initiativeavenirzukunft2019/">Pour plus de bilinguisme!</a>
               </h3>
               
@@ -654,44 +704,6 @@ Liquid::Template.register_tag('image', Jekyll::ImageTag)
 
           </article>
         
-          <article class="mini-post">
-            <header>
-              <h3>
-                <a href="/blog/chandeleur/">4. Februar - La Chandeleur</a>
-              </h3>
-              
-              <time class="published" datetime='2019-01-27'>
-                January 27, 2019
-              </time>
-            </header>
-            
-    
-
-    
-        
-        
-
-
-
-
-
-
-
-  
-
-
-        
-        
-        
-
-        <a href="/blog/chandeleur/" class="image featured">
-            <img src="/img/blog/Elterncafe-min.jpg" alt="">
-        </a>
-    
-
-
-          </article>
-        
       </div>
     </div>
   </section>
@@ -711,7 +723,7 @@ Liquid::Template.register_tag('image', Jekyll::ImageTag)
 </section>
 
 </div>
-<div id="collaboration">Unsere Partner und <a href="/downloads" target="_blank">Downloads</a>
+<div id="collaboration">Zusammenarbeit und <a href="/downloads" target="_blank">Downloads</a>
     <div class="container">
         <div class="row">
             <div class="col-sm space-footer">
@@ -724,7 +736,11 @@ Liquid::Template.register_tag('image', Jekyll::ImageTag)
                 <a href="https://leipzig.institutfrancais.de/?language=de" target="_blank"><img class="d-block img-fluid" src="/img/collaboration/institut_francais.jpg" alt="Institut francais Leipzig" span title="Institut francais"></a>
             </div>
             <div class="col-sm space-footer">
+
                 <a href="/downloads" target="_blank"> <img class="d-block img-fluid" src="/img/collaboration/download_icon.png" span title="Downloads"></a>
+            </div>
+            <div class="col-sm space-footer">
+                <a href="https://smile.amazon.de/ch/231-140-25976" target="_blank"> <img class="d-block img-fluid" src="/img/main/HAUPTLOGO_DE_AmazonSmile.png" span title="Amazon smile"></a>
             </div>
         </div>
     </div>
