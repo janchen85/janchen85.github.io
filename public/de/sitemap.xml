@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/blog/amazonsmile/</loc>
+    <lastmod>2019-12-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/blog/amazonsmile/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/blog/amazonsmile/"
+                />
+  </url>
+  
+  <url>
+    <loc>/blog/</loc>
+    <lastmod>2019-12-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>/blog/initiativeavenirzukunft2019/</loc>
+    <lastmod>2019-11-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/blog/initiativeavenirzukunft2019/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/blog/initiativeavenirzukunft2019/"
+                />
+  </url>
+  
+  <url>
+    <loc>/blog/fetedelamusique/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/blog/fetedelamusique/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/blog/fetedelamusique/"
+                />
+  </url>
+  
+  <url>
+    <loc>/blog/rejoinsnotreequipe/</loc>
+    <lastmod>2019-04-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/blog/rejoinsnotreequipe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/blog/rejoinsnotreequipe/"
+                />
+  </url>
+  
+  <url>
+    <loc>/blog/chandeleur/</loc>
+    <lastmod>2019-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/tagderoffenentuer/</loc>
+    <lastmod>2019-01-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/neuesjahr/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/weihnachtsfeier2018/</loc>
+    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/mitgliederversammlung2018/</loc>
+    <lastmod>2018-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/ofaj/</loc>
+    <lastmod>2018-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/turnbeutel/</loc>
+    <lastmod>2018-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/biss/</loc>
+    <lastmod>2018-07-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/newsletter/</loc>
+    <lastmod>2018-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/migrate-from-jekyll/</loc>
+    <lastmod>2014-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/downloads/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/downloads/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/downloads/"
+                />
+  </url>
+  
+  <url>
+    <loc>/verein/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/association/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/verein/"
+                />
+  </url>
+  
+  <url>
+    <loc>/karriere/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/carriere/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/karriere/"
+                />
+  </url>
+  
+  <url>
+    <loc>/mitglied/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/adhesion/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/mitglied/"
+                />
+  </url>
+  
+  <url>
+    <loc>/team/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/equipe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/team/"
+                />
+  </url>
+  
+  <url>
+    <loc>/konzept/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/le-concept/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/konzept/"
+                />
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/"
+                />
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/kontakt/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/kontakt/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/tags/"
+                />
+  </url>
+  
+</urlset>
