@@ -3,6 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/fr/blog/tagderoffenentuer2020/</loc>
+    <lastmod>2020-01-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/blog/tagderoffenentuer2020/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/blog/tagderoffenentuer2020/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/blog/</loc>
+    <lastmod>2020-01-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/blog/galettedesrois2020/</loc>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/blog/galettedesrois2020/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/blog/galettedesrois2020/"
+                />
+  </url>
+  
+  <url>
     <loc>/fr/blog/amazonsmile/</loc>
     <lastmod>2019-12-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -14,21 +59,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="/fr/blog/amazonsmile/"
-                />
-  </url>
-  
-  <url>
-    <loc>/fr/blog/</loc>
-    <lastmod>2019-12-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/blog/"
                 />
   </url>
   
