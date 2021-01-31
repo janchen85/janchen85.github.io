@@ -4,7 +4,7 @@
   
   <url>
     <loc>/fr/blog/</loc>
-    <lastmod>2020-07-15T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -14,6 +14,21 @@
                 rel="alternate"
                 hreflang="fr"
                 href="/fr/blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/blog/freieplaetze/</loc>
+    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/blog/freieplaetze/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/blog/freieplaetze/"
                 />
   </url>
   
